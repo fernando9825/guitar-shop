@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="MPClientes.master.cs" Inherits="Paginaweb.Clientes.MPClientes" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentMenuContextual1" runat="server">
+    <ul id="menuContextual" >
+        <li> <a href ="AdministrarClientes.aspx" >Administrar Clientes</a></li>
+          <li> <a href ="AgregarClientes.aspx" >Agregar Clientes</a></li>
+         <li> <a href ="VerDatosClientes.aspx" >Ver Datos Clientes</a></li>
+
+
+    </ul>
+
+
+</asp:Content>
+
+
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+
+     <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+              </asp:ContentPlaceHolder>
+
+</asp:Content>
