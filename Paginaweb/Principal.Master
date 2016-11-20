@@ -24,7 +24,7 @@
                     <li><a href="/Default.aspx">Home</a></li>
                     <li><a href="/guitarras/acusticas.aspx">Guitarras</a></li>
                     <li><a href="/clientes/Login.aspx">Iniciar sesión</a></li>
-                    <li><a href="/Clientes/AdministrarClientes.aspx">Registrarse</a></li>
+                    <li><a href="/Clientes/registrarse.aspx">Registrarse</a></li>
                     <li><a href="/Contactanos/Contacts.aspx">Contactanos</a></li>
 
                     

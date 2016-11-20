@@ -7,11 +7,12 @@ using System.Web.UI.WebControls;
 
 namespace Paginaweb.Clientes
 {
-    public partial class AdministrarClientes : System.Web.UI.Page
+    public partial class registrarse : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
 
         }
+
     }
 }

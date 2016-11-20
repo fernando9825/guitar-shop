@@ -52,7 +52,7 @@ width: 36%;
         <tr>
             <td class="auto-style3">Contraseña</td>
             <td class="auto-style5">
-                <asp:TextBox ID="TextBox4" runat="server"></asp:TextBox>
+                <asp:TextBox ID="TextBox4" runat="server" TextMode="Password"></asp:TextBox>
             </td>
         </tr>
         <tr>

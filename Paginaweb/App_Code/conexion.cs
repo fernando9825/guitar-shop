@@ -15,7 +15,7 @@ public class conexion
      * CON
      * BASE DE DATOS */
 
-    SqlConnection con = new SqlConnection("Data Source=sql5028.smarterasp.net;Persist Security Info=True;User ID=DB_A132DD_fernando9825_admin;Password=***********");
+    SqlConnection con = new SqlConnection("Data Source=.\\express;Initial Catalog=Tiendaguitarras;Integrated Security=True;Pooling=False");
     public SqlCommand comando;
 
     //METODO CONECTAR//
